@@ -1,4 +1,4 @@
-package com.company;
+package sptv21task3alekseipodusko;
 import java.util.Scanner;
 public class Main {
 
